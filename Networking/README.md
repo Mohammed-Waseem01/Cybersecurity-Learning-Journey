@@ -44,3 +44,16 @@ IPS
 CSU/DSU
 NIC
 VPN concentrator
+
+Networking Fundamentals - Day 2 (18 June 2026)
+
+4.TCP/UDP
+what is tcp
+layers of tcp
+PDU in tcp
+difference between tcp vs osi model
+layer mapping
+three-way handshake 
+four-way handshake
+UDP
+
